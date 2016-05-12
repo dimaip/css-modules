@@ -100,6 +100,7 @@ i. e. with less.js
 * [css-modules/webpack-demo](https://github.com/css-modules/webpack-demo)
 * [outpunk/postcss-modules-example](https://github.com/outpunk/postcss-modules-example)
 * [Theming](docs/theming.md)
+* [Server-side rendering with Webpack](https://github.com/dimaip/server-side-rendering)
 
 
 ## History
